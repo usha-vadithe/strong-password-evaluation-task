@@ -17,7 +17,7 @@ Understand what makes a strong password and evaluate different passwords using o
 ## 📄 Files Included
 
 - `password_strength_report.txt`
-- (Optional) Screenshots of checker results
+-  Screenshots of checker results
 
 ## ✅ Outcome
 Learned the components of strong password design and evaluated effectiveness using real-world tools.
